@@ -1,4 +1,4 @@
 chat-bot
 ========
 
-simple chatbot using libpurple in C
+simple yahoo messenger terminal-based chat bot using libpurple in C
